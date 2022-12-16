@@ -1,17 +1,3 @@
-#WEB library
-# import streamlit.components.v1 as components
-# from secrets import choice
-# import streamlit as st
-
-# #opencv library
-# import face_recognition
-# from datetime import datetime
-# from PIL import Image
-import pandas as pd
-# import numpy as np
-# import cv2
-# import os
-# import time
 
 
 FRAME_WINDOW = st.image([]) #frame window
