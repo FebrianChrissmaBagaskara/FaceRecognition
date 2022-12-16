@@ -9,7 +9,7 @@ from datetime import datetime
 from PIL import Image
 import pandas as pd
 import numpy as np
-from opencv import cv2
+#from opencv import cv2
 import os
 import time
 
