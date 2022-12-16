@@ -4,7 +4,7 @@ from secrets import choice
 import streamlit as st
 
 #opencv library
-import face_recognition
+#import face_recognition
 from datetime import datetime
 from PIL import Image
 import pandas as pd
